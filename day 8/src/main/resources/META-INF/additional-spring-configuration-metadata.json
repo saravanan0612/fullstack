@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "solidpay.properties.secret_key",
+    "type": "java.lang.String",
+    "description": "A description for 'solidpay.properties.secret_key'"
+  },
+  {
+    "name": "solidpay.properties.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'solidpay.properties.expiration'"
+  },
+  {
+    "name": "solidpay.swagger.contact.name",
+    "type": "java.lang.String",
+    "description": "A description for 'solidpay.swagger.contact.name'"
+  },
+  {
+    "name": "solidpay.swagger.contact.email",
+    "type": "java.lang.String",
+    "description": "A description for 'solidpay.swagger.contact.email'"
+  },
+  {
+    "name": "solidpay.swagger.contact.url",
+    "type": "java.lang.String",
+    "description": "A description for 'solidpay.swagger.contact.url'"
+  }
+]}
